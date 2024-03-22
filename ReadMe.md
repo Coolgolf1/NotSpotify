@@ -34,7 +34,6 @@ El reproductor viene con algunas canciones predeterminadas para demostración. S
     python main.py
 ```
 
-
 ## Uso
 
 Una vez iniciada la aplicación, se mostrará la interfaz gráfica de usuario completa. Desde aquí, puede:
