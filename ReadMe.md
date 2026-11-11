@@ -27,11 +27,11 @@ El reproductor viene con algunas canciones predeterminadas para demostración. S
 ```
 2. Instalar las dependencias necesarias:
 ```
-    pip install pygame mutagen
+    pip install -r requirements.txt
 ```
 3. Ejecutar el programa:
 ```
-    python main.py
+    python player.py
 ```
 
 ## Uso
